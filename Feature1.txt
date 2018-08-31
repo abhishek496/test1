@@ -2,3 +2,9 @@
 Method1 (){
 
 }
+
+
+// Test Feature by user 2
+Method2 (){
+
+}
